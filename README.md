@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 
+This is Jungmin who are going to become a Developer ✨
+🌱 I’m currently learning ... algorithm, network, AI etc
 <!--
 **jungmiinn/jungmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
