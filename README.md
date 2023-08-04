@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://www.instagram.com/jxngrnin/"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmiinn&show_icons=true&theme=radical)
