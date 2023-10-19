@@ -1,6 +1,7 @@
 ### Hi there 👋 
-This is Jungmin who are going to become a Developer ✨ </br>
-🌱 I’m currently learning ... algorithm, network, AI etc
+This is Jungmin who is going to be a Developer ✨ </br>
+🌱 I’m currently learning ... algorithm, network, AI etc </br>
+Now I'm on the process of the WooTeco. </br>
 <!--
 **jungmiinn/jungmiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
